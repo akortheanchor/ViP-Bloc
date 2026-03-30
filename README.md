@@ -170,7 +170,7 @@ Input: RGB facial video (T=128 frames, 128×128 px)
 
 ```bash
 # Clone repository
-git clone https://github.com/QAMP-Group14/ViP-Bloc.git
+git clone https://github.com/akortheanchor/ViP-Bloc.git
 cd ViP-Bloc
 
 # Create and activate conda environment
