@@ -494,6 +494,6 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 ---
 
 <p align="center">
-  <b>NIT Puducherry · QAMP Group 14 · 2026</b><br/>
+  <b>NIT Puducherry  · 2026</b><br/>
   <i>For questions or collaboration, open an issue or contact cs22d1005@nitpy.ac.in</i>
 </p>
