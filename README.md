@@ -9,11 +9,7 @@ ViP-Bloc is the first end-to-end video-based photoplethysmography (ViPPG) framew
 
 <p align="center">
   <a href="https://doi.org/10.1109/TBME.2026.XXXXXXX">
-    <img src="https://img.shields.io/badge/IEEE%20TBME-Under%20Review-blue?style=flat-square&logo=ieee"/>
-  </a>
-  <a href="https://arxiv.org/abs/XXXX.XXXXX">
-    <img src="https://img.shields.io/badge/arXiv-Preprint-red?style=flat-square&logo=arxiv"/>
-  </a>
+    <img width="290" height="320" alt="image" src="https://github.com/user-attachments/assets/b6325800-ec88-4268-95b6-05920990f6e0" />
   <img src="https://img.shields.io/badge/Python-3.10+-green?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?style=flat-square&logo=pytorch"/>
   <img src="https://img.shields.io/badge/CUDA-11.8-76b900?style=flat-square&logo=nvidia"/>
