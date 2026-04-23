@@ -454,11 +454,9 @@ If you use ViP-Bloc in your research, please cite:
 
 ```bibtex
 @article{akoramurthy2026vipbloc,
-  author    = {Akoramurthy, B. and Surendiran, B.},
-  title     = {{ViP-Bloc}: Periodicity-Aware Relational Graph Networks
-               with Blockchain Provenance for Privacy-Preserving
-               Contactless Physiological Monitoring},
-  journal   = {Signal, Image and Video Processing},
+  author    = {Akoramurthy, B., Surendiran, B.m and Xiaochun Cheng},
+  title     = {{ViP-Bloc}: Periodic Relational Graph Networks with Blockchain-Secured Audit Trails for Contactless rPPG-Based Heart Rate Estimation},
+  journal   = {Computers & Electrical Engineering},
   year      = {2026},
   note      = {Under review},
   institution = {National Institute of Technology Puducherry, India;
@@ -474,6 +472,7 @@ If you use ViP-Bloc in your research, please cite:
 |---|---|---|
 | **Akoramurthy B** | Dept. of CSE, NIT Puducherry, India | cs22d1005@nitpy.ac.in |
 | **Surendiran B** | Dept. of CSE, NIT Puducherry, India | surendiran@nitpy.ac.in |
+| **Xiaochun Cheng** |Swansea University, Bay Campus, Swansea, SA1 8EN, Wales, United Kingdom | xiaochun.cheng@swansea.ac.uk |
 
 This work is part of the **Visvesvaraya PhD- Phase-II** research programme.
 
