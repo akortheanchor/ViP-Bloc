@@ -3,7 +3,8 @@ ViP-Bloc is the first end-to-end video-based photoplethysmography (ViPPG) framew
 # ViP-Bloc: Periodicity-Aware Relational Graph Networks with Blockchain Provenance for Privacy-Preserving Contactless Physiological Monitoring
 
 <p align="center">
-  <img src="assets/vipbloc_overview.png" width="820" alt="ViP-Bloc Architecture Overview"/>
+  <img width="1280" height="654" alt="Graphical Abstract final-1" src="https://github.com/user-attachments/assets/990cf5b4-fef1-44b5-a975-84c0d5e5c180" />
+
 </p>
 
 <p align="center">
